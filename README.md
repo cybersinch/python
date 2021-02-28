@@ -1,2 +1,2 @@
-# python
+# Python
 This is a repository for my youtube channel: CyberSinch
